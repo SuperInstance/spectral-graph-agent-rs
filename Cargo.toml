@@ -1,4 +1,5 @@
 [package]
+license = "MIT"
 name = "spectral-graph-agent"
 version = "0.1.0"
 edition = "2021"
